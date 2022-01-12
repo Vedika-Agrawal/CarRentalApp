@@ -32,3 +32,7 @@ DMA
 
 Link for the demo Video is:- https://lnkd.in/eqSNm_YW
 
+![1](https://user-images.githubusercontent.com/78415234/149153011-daa8ec9c-e7f8-4e8a-96a7-eaf183c4a992.JPG)
+![2](https://user-images.githubusercontent.com/78415234/149153033-e8d4deb1-bf62-43e6-a901-d5db7092a622.JPG)
+![3](https://user-images.githubusercontent.com/78415234/149153058-05010d2f-5680-4e08-99c3-ff533a02938d.JPG)
+![4](https://user-images.githubusercontent.com/78415234/149153073-9f80e66c-4746-4a93-801c-ba7867532812.JPG)
