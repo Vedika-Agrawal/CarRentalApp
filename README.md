@@ -3,7 +3,7 @@
 
  
 
-Designed a Car rental System to simulate the common features of rent a car. This is a console based software  programm in C-language.
+Designed a Car rental System to simulate the common features of rent a car. This is a console based software  program in C-language.
 ## Documentation
 
 
