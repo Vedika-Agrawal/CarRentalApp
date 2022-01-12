@@ -17,9 +17,9 @@ Designed a Car rental System to simulate the common features of rent a car. This
 1.Admin - admin-id, username and password
 2.Employee - emp-id, username and password
 3.Availaible car details     
-4.Coustemrs details  
-5.Bookinng details  
-6. Return Car
+4.Customers details  
+5.Booking details  
+6.Return Car
 
 
 
